@@ -11,7 +11,6 @@ setup(
 
 	classifiers=[
          
-         'intended audience :: python users',
          'License :: OSI Approved :: MIT License',
          'Programming language :: python :: 3.6',
 
