@@ -10,7 +10,7 @@ setup(
 	author_email='odhiambocuttice@gmail.com',
 
 	classifiers=[
-         'development status :: alpha',
+         
          'intended audience :: python users',
          'License :: OSI Approved :: MIT License',
          'Programming language :: python :: 3.6',
